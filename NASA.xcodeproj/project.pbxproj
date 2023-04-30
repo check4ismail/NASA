@@ -13,6 +13,7 @@
 		21EDF82729FEB88A000C9BFF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF82629FEB88A000C9BFF /* Preview Assets.xcassets */; };
 		21EDF82F29FEBA6E000C9BFF /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF82E29FEBA6E000C9BFF /* SearchResult.swift */; };
 		21EDF83129FEBF9D000C9BFF /* SearchResults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF83029FEBF9D000C9BFF /* SearchResults.swift */; };
+		21EDF83429FECDB3000C9BFF /* NASAClientAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF83329FECDB3000C9BFF /* NASAClientAPI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		21EDF82629FEB88A000C9BFF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		21EDF82E29FEBA6E000C9BFF /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
 		21EDF83029FEBF9D000C9BFF /* SearchResults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResults.swift; sourceTree = "<group>"; };
+		21EDF83329FECDB3000C9BFF /* NASAClientAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NASAClientAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		21EDF81E29FEB887000C9BFF /* NASA */ = {
 			isa = PBXGroup;
 			children = (
+				21EDF83229FECD80000C9BFF /* API */,
 				21EDF82D29FEBA4F000C9BFF /* Model */,
 				21EDF81F29FEB887000C9BFF /* NASAApp.swift */,
 				21EDF82129FEB887000C9BFF /* ContentView.swift */,
@@ -79,6 +82,14 @@
 				21EDF83029FEBF9D000C9BFF /* SearchResults.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		21EDF83229FECD80000C9BFF /* API */ = {
+			isa = PBXGroup;
+			children = (
+				21EDF83329FECDB3000C9BFF /* NASAClientAPI.swift */,
+			);
+			path = API;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,6 +166,7 @@
 				21EDF82F29FEBA6E000C9BFF /* SearchResult.swift in Sources */,
 				21EDF83129FEBF9D000C9BFF /* SearchResults.swift in Sources */,
 				21EDF82029FEB887000C9BFF /* NASAApp.swift in Sources */,
+				21EDF83429FECDB3000C9BFF /* NASAClientAPI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
