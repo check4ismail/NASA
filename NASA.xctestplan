@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "6D152293-3C2B-465A-9976-DF4635B249D3",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:NASA.xcodeproj",
+          "identifier" : "21EDF81B29FEB887000C9BFF",
+          "name" : "NASA"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:NASA.xcodeproj",
+      "identifier" : "21EDF81B29FEB887000C9BFF",
+      "name" : "NASA"
+    },
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:NASA.xcodeproj",
+        "identifier" : "21EDF8472A018AD6000C9BFF",
+        "name" : "NASATests"
+      }
+    }
+  ],
+  "version" : 1
+}

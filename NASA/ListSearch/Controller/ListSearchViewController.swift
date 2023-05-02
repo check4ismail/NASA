@@ -48,7 +48,7 @@ final class ListSearchViewController<T: ListSearchViewModel>: UIViewController, 
 		return label
 	}()
 	
-	/// Displays list of query results.
+	/// List of query results.
 	private lazy var tableView: UITableView = {
 		let tableView = UITableView()
 		tableView.translatesAutoresizingMaskIntoConstraints = false

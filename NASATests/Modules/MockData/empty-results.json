@@ -1,0 +1,10 @@
+{
+	"collection": {
+		"version": "1.0",
+		"href": "http://images-api.nasa.gov/search?q=aaaaaa&media_type=image&page=2",
+		"items": [],
+		"metadata": {
+			"total_hits": 0
+		}
+	}
+}

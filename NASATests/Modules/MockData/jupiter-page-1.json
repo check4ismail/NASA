@@ -1,0 +1,2616 @@
+{
+	"collection": {
+		"version": "1.0",
+		"href": "http://images-api.nasa.gov/search?q=jupiter&media_type=image&page=1",
+		"items": [
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01518/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Plume",
+						"nasa_id": "PIA01518",
+						"date_created": "1999-03-13T14:54:19Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Plume",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter Plume"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01518/PIA01518~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09231/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Ahoy!",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"nasa_id": "PIA09231",
+						"date_created": "2007-04-02T23:50:01Z",
+						"media_type": "image",
+						"description_508": "Jupiter Ahoy!",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "Jupiter Ahoy!"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09231/PIA09231~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01527/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Violent Storms",
+						"nasa_id": "PIA01527",
+						"date_created": "1999-06-22T00:38:39Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Violent Storms",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter Violent Storms"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01527/PIA01527~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01602/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Time Series of Jupiter Aurora",
+						"nasa_id": "PIA01602",
+						"date_created": "1998-06-10T15:25:40Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Time Series of Jupiter Aurora",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Time Series of Jupiter Aurora"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01602/PIA01602~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01603/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Time Series of Jupiter Aurora",
+						"nasa_id": "PIA01603",
+						"date_created": "1998-06-10T15:26:04Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Time Series of Jupiter Aurora",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Time Series of Jupiter Aurora"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01603/PIA01603~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01117/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Northern Auroral Oval",
+						"nasa_id": "PIA01117",
+						"date_created": "1997-12-18T12:19:51Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Northern Auroral Oval",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter Northern Auroral Oval"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01117/PIA01117~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01521/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter White Oval",
+						"nasa_id": "PIA01521",
+						"date_created": "1999-03-13T14:55:53Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter White Oval",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter White Oval"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01521/PIA01521~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01369/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter from Voyager 2",
+						"nasa_id": "PIA01369",
+						"date_created": "1998-12-05T14:11:26Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter from Voyager 2",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter from Voyager 2"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01369/PIA01369~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01370/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Great Red Spot",
+						"nasa_id": "PIA01370",
+						"date_created": "1998-12-05T14:11:02Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Great Red Spot",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter Great Red Spot"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01370/PIA01370~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01481/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter System Montage",
+						"nasa_id": "PIA01481",
+						"date_created": "1998-10-30T14:52:39Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter System Montage",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter System Montage"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01481/PIA01481~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01601/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Time Series of Jupiter Aurora",
+						"nasa_id": "PIA01601",
+						"date_created": "1998-06-10T15:25:18Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Time Series of Jupiter Aurora",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Time Series of Jupiter Aurora"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01601/PIA01601~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01636/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Changing Lightning Storms on Jupiter",
+						"nasa_id": "PIA01636",
+						"date_created": "1998-10-13T07:50:18Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Changing Lightning Storms on Jupiter",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Changing Lightning Storms on Jupiter"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01636/PIA01636~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01650/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Historic Merger of Storms on Jupiter",
+						"nasa_id": "PIA01650",
+						"date_created": "1998-12-07T12:07:08Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Historic Merger of Storms on Jupiter",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Historic Merger of Storms on Jupiter"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01650/PIA01650~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01324/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter",
+						"nasa_id": "PIA01324",
+						"date_created": "1998-09-21T15:22:28Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "This crescent view of Jupiter was taken by NASA Voyager 1 on Mar. 24, 1979.",
+						"secondary_creator": "NASA/JPL",
+						"description": "This crescent view of Jupiter was taken by NASA Voyager 1 on Mar. 24, 1979."
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01324/PIA01324~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA24818/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter's Bands",
+						"keywords": [
+							"Jupiter"
+						],
+						"nasa_id": "PIA24818",
+						"date_created": "2021-10-28T00:00:00Z",
+						"media_type": "image",
+						"description_508": "Jupiter's banded appearance is created by the cloud-forming weather layer. This composite image shows views of Jupiter in infrared and visible light taken by the Gemini North telescope and NASA's Hubble Space Telescope.",
+						"secondary_creator": "International Gemini Observatory/NOIRLab/NSF/AURA/NASA/ESA, M.H. Wong and I. de Pater (UC Berkeley) et al.",
+						"description": "Jupiter's banded appearance is created by the cloud-forming \"weather layer.\" In this composite image, the image on the left show's Jupiter's thermal energy being emitted in infrared light, with dark cloudy bands appearing as silhouettes against Jupiter's thermal glow. The image on the right shows Jupiter's appearance in visible light, with white cloudy \"zones\" and the relatively cloud-free \"belts\" appearing as red-brown colors.  The composite was created using infrared data collected by the Gemini North telescope (left) and a visible-light image taken by NASA's Hubble Space Telescope. Both images were created from data captured on Jan. 11, 2017.  https://photojournal.jpl.nasa.gov/catalog/PIA24818"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA24818/PIA24818~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01262/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Hubble Tracks Jupiter Storms",
+						"nasa_id": "PIA01262",
+						"date_created": "1998-05-02T16:51:47Z",
+						"keywords": [
+							"Jupiter",
+							"Hubble Space Telescope"
+						],
+						"media_type": "image",
+						"description_508": "Hubble Tracks Jupiter Storms",
+						"secondary_creator": "NASA/ New Mexico State Univ.",
+						"description": "Hubble Tracks Jupiter Storms"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01262/PIA01262~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA02880/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Polarized Light from Jupiter",
+						"nasa_id": "PIA02880",
+						"date_created": "2001-01-23T01:28:11Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Polarized Light from Jupiter",
+						"secondary_creator": "NASA/JPL/University of Arizona",
+						"description": "Polarized Light from Jupiter"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA02880/PIA02880~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA02972/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter in Color, by Cassini",
+						"nasa_id": "PIA02972",
+						"date_created": "2000-10-10T00:24:57Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter in Color, by Cassini",
+						"secondary_creator": "NASA/JPL/University of Arizona",
+						"description": "Jupiter in Color, by Cassini"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA02972/PIA02972~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA03452/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Polar Winds Movie",
+						"nasa_id": "PIA03452",
+						"date_created": "2001-07-16T17:08:36Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Polar Winds Movie",
+						"secondary_creator": "NASA/JPL/Southwest Research Institute",
+						"description": "Jupiter Polar Winds Movie"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA03452/PIA03452~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA03476/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Magnetosphere Made Visible",
+						"nasa_id": "PIA03476",
+						"date_created": "2002-02-27T19:25:05Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Magnetosphere Made Visible",
+						"secondary_creator": "NASA/JPL/Johns Hopkins University Applied Physics Laboratory",
+						"description": "Jupiter Magnetosphere Made Visible"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA03476/PIA03476~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09342/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Rings: Sharpest View",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"nasa_id": "PIA09342",
+						"date_created": "2007-05-01T17:00:04Z",
+						"media_type": "image",
+						"description_508": "Jupiter Rings: Sharpest View",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "Jupiter Rings: Sharpest View"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09342/PIA09342~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA13762/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Eight Looks at the Jupiter Impact",
+						"nasa_id": "PIA13762",
+						"date_created": "2011-01-26T19:00:02Z",
+						"keywords": [
+							"Jupiter",
+							"Infrared Telescope Facility"
+						],
+						"media_type": "image",
+						"description_508": "Eight Looks at the Jupiter Impact",
+						"secondary_creator": "NASA/JPL-Caltech/IRTF/STScI/ESO/Gemini Observatory/AURA/A. Wesley",
+						"description": "Eight Looks at the Jupiter Impact"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA13762/PIA13762~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA02823/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Oval Storms Merging on Jupiter",
+						"nasa_id": "PIA02823",
+						"date_created": "2000-10-23T19:11:02Z",
+						"keywords": [
+							"Jupiter",
+							"Hubble Space Telescope"
+						],
+						"media_type": "image",
+						"description_508": "Oval Storms Merging on Jupiter",
+						"secondary_creator": "NASA/JPL/WFPC2",
+						"description": "Oval Storms Merging on Jupiter"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA02823/PIA02823~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA02879/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "A New Year for Jupiter and Io",
+						"nasa_id": "PIA02879",
+						"date_created": "2001-01-23T01:28:03Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "A New Year for Jupiter and Io",
+						"secondary_creator": "NASA/JPL/University of Arizona",
+						"description": "A New Year for Jupiter and Io"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA02879/PIA02879~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA03478/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Inner Radiation Belts of Jupiter",
+						"nasa_id": "PIA03478",
+						"date_created": "2002-02-27T19:25:15Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Inner Radiation Belts of Jupiter",
+						"secondary_creator": "NASA/JPL",
+						"description": "Inner Radiation Belts of Jupiter"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA03478/PIA03478~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09238/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Moons around Jupiter",
+						"nasa_id": "PIA09238",
+						"date_created": "2007-04-02T23:50:08Z",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"media_type": "image",
+						"description_508": "Moons around Jupiter",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "Moons around Jupiter"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09238/PIA09238~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09243/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Full Jupiter Mosaic",
+						"nasa_id": "PIA09243",
+						"date_created": "2007-04-02T23:50:13Z",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"media_type": "image",
+						"description_508": "Full Jupiter Mosaic",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "Full Jupiter Mosaic"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09243/PIA09243~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09352/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Moons: Family Portrait",
+						"nasa_id": "PIA09352",
+						"date_created": "2007-05-01T17:00:05Z",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Moons: Family Portrait",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "Jupiter Moons: Family Portrait"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09352/PIA09352~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01263/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter G Impact Evolution",
+						"nasa_id": "PIA01263",
+						"date_created": "1998-05-02T16:51:58Z",
+						"keywords": [
+							"Jupiter",
+							"Hubble Space Telescope"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter G Impact Evolution",
+						"secondary_creator": "JPL/NASA/STScI",
+						"description": "Jupiter G Impact Evolution"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01263/PIA01263~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA04433/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Torus Diagram",
+						"nasa_id": "PIA04433",
+						"date_created": "2003-02-27T18:26:45Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Torus Diagram",
+						"secondary_creator": "NASA/JPL/Johns Hopkins University Applied Physics Laboratory",
+						"description": "Jupiter Torus Diagram"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA04433/PIA04433~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09235/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "On Approach: Jupiter and Io",
+						"nasa_id": "PIA09235",
+						"date_created": "2007-04-02T23:50:05Z",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"media_type": "image",
+						"description_508": "On Approach: Jupiter and Io",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "On Approach: Jupiter and Io"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09235/PIA09235~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09236/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "A Day on Jupiter Animation",
+						"nasa_id": "PIA09236",
+						"date_created": "2007-04-02T23:50:06Z",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"media_type": "image",
+						"description_508": "A Day on Jupiter Animation",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "A Day on Jupiter Animation"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09236/PIA09236~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09241/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Atmospheric Map",
+						"nasa_id": "PIA09241",
+						"date_created": "2007-04-02T23:50:11Z",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Atmospheric Map",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "Jupiter Atmospheric Map"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09241/PIA09241~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09252/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Alice Views Jupiter and Io",
+						"nasa_id": "PIA09252",
+						"date_created": "2007-04-02T23:50:22Z",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"media_type": "image",
+						"description_508": "Alice Views Jupiter and Io",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "Alice Views Jupiter and Io"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09252/PIA09252~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09339/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter High-Altitude Clouds",
+						"nasa_id": "PIA09339",
+						"date_created": "2007-05-01T17:00:01Z",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter High-Altitude Clouds",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "Jupiter High-Altitude Clouds"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09339/PIA09339~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09340/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Probing Storm Activity on Jupiter",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"nasa_id": "PIA09340",
+						"date_created": "2007-05-01T17:00:02Z",
+						"media_type": "image",
+						"description_508": "Probing Storm Activity on Jupiter",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "Probing Storm Activity on Jupiter"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09340/PIA09340~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA22963/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter's Ring",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA22963",
+						"date_created": "2018-12-19T00:00:00Z",
+						"media_type": "image",
+						"description_508": "This image shows Jupiter's ring -- half in Jupiter's shadow -- as captured by NASA's Juno spacecraft during its 13th science orbit on July 16, 2018.",
+						"secondary_creator": "NASA/JPL-Caltech/SwRI",
+						"description": "Juno's Radiation Monitoring Investigation used the Stellar Reference Unit (SRU) star camera to collect this image of Jupiter's ring -- half in Jupiter's shadow -- during Juno's 13th science orbit on July 16, 2018. The image was collected from a unique high latitude vantage point (55 degrees north latitude) just as Juno flew inside the ring. The bright inner band is Jupiter's main ring, the halo ring is to its left, and the gossamer rings are to its right.  https://photojournal.jpl.nasa.gov/catalog/PIA22963"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA22963/PIA22963~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01477/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter White Ovals",
+						"nasa_id": "PIA01477",
+						"date_created": "1998-10-14T12:54:08Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo,Hubble Space Telescope"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter White Ovals",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter White Ovals"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01477/PIA01477~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01524/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Equatorial Zone in Exaggerated Color",
+						"nasa_id": "PIA01524",
+						"date_created": "1999-03-23T00:20:19Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Equatorial Zone in Exaggerated Color",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter Equatorial Zone in Exaggerated Color"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01524/PIA01524~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA13894/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Comet Impact Into Jupiter Artist Concept",
+						"nasa_id": "PIA13894",
+						"date_created": "2011-03-31T18:00:03Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Comet Impact Into Jupiter Artist Concept",
+						"secondary_creator": "Copyright M. Showalter",
+						"description": "Comet Impact Into Jupiter Artist Concept"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA13894/PIA13894~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01513/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter - Southeast of Great Red Spot",
+						"nasa_id": "PIA01513",
+						"date_created": "1999-03-13T14:53:59Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter - Southeast of Great Red Spot",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter - Southeast of Great Red Spot"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01513/PIA01513~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA02097/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Cloud Features North of Jupiter Equator",
+						"nasa_id": "PIA02097",
+						"date_created": "1999-08-27T15:00:02Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Cloud Features North of Jupiter Equator",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Cloud Features North of Jupiter Equator"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA02097/PIA02097~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA02098/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Clouds and Hazes of Jupiter Southern Hemisphere",
+						"nasa_id": "PIA02098",
+						"date_created": "1999-08-27T15:00:18Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Clouds and Hazes of Jupiter Southern Hemisphere",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Clouds and Hazes of Jupiter Southern Hemisphere"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA02098/PIA02098~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA00144/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter with Satellites Io and Europa",
+						"nasa_id": "PIA00144",
+						"date_created": "1996-01-29T14:52:40Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "NASA Voyager 1 took this photo of Jupiter and two of its satellites Io, left, and Europa on Feb. 13, 1979. Io is above Jupiter Great Red Spot; Europa is above Jupiter clouds. The poles are dark and reddish.",
+						"secondary_creator": "NASA/JPL",
+						"description": "NASA's Voyager 1 took this photo of Jupiter and two of its satellites Io, left, and Europa on Feb. 13, 1979. Io is above Jupiter Great Red Spot; Europa is above Jupiter clouds. The poles are dark and reddish.  http://photojournal.jpl.nasa.gov/catalog/PIA00144"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA00144/PIA00144~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA02860/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Io in Front of Jupiter",
+						"nasa_id": "PIA02860",
+						"date_created": "2000-12-20T18:46:00Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter four largest satellites, including Io, the golden ornament in front of Jupiter in this image from NASA Cassini spacecraft.",
+						"secondary_creator": "NASA/JPL/University of Arizona",
+						"description": "Jupiter four largest satellites, including Io, the golden ornament in front of Jupiter in this image from NASA Cassini spacecraft."
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA02860/PIA02860~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA03000/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Atmospheric Motion in Jupiter Northern Hemisphere",
+						"nasa_id": "PIA03000",
+						"date_created": "2000-09-25T23:11:08Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Atmospheric Motion in Jupiter Northern Hemisphere",
+						"secondary_creator": "NASA/JPL/University of Arizona",
+						"description": "True-color (left) and false-color (right) mosaics of Jupiter's northern hemisphere between 10 and 50 degrees latitude. Jupiter's atmospheric motions are controlled by alternating eastward and westward bands of air between Jupiter's equator and polar regions. The direction and speed of these bands influences the color and texture of the clouds seen in this mosaic. The high and thin clouds are represented by light blue, deep clouds are reddish, and high and thick clouds are white. A high haze overlying a clear, deep atmosphere is represented by dark purple. This image was taken by NASA's Galileo spacecraft on April 3, 1997 at a distance of 1.4 million kilometers (.86 million miles).   http://photojournal.jpl.nasa.gov/catalog/PIA03000"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA03000/PIA03000~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA24965/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Atmospheric Circulation Cells on Earth and Jupiter",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA24965",
+						"date_created": "2021-10-28T00:00:00Z",
+						"media_type": "image",
+						"description_508": "This graphic compares the atmospheric circulations of Earth and Jupiter.",
+						"secondary_creator": "NASA/JPL-Caltech/SwRI/Weizmann Institute of Science",
+						"description": "This graphic compares the atmospheric circulations of Earth and Jupiter. Earth contains one Ferrel cell (a mid-latitudinal cell where air flows poleward and eastward at the surface, and equatorward and westward at higher altitudes). On Jupiter, the circulation cells are depicted in aqua, and underlying jets streams in the pink region. The jet streams are characteristic for all depths associated with the cells.  Jupiter has eight Ferrel-like cells in the north and eight in the south, due to its large size and fast rotation. Each of these cells on Jupiter is at least 30 times larger than the equivalent cell on Earth. The main difference between the Jovian and terrestrial cells is that on Earth, the cell ends at the surface, while on gaseous Jupiter, it penetrates into the deeper layers of the atmosphere. Due to measuring limitations, it has yet to be determined how deep these cells extend.  https://photojournal.jpl.nasa.gov/catalog/PIA24965"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA24965/PIA24965~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA25037/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Vortices on Jupiter and Earth",
+						"nasa_id": "PIA25037",
+						"media_type": "image",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"date_created": "2021-12-17T00:00:00Z",
+						"description_508": "Left to right: A phytoplankton bloom in the Norwegian Sea, and turbulent clouds in Jupiter's atmosphere.",
+						"secondary_creator": "Image data: NASA OBPG OB.DAAC/GSFC/Aqua/MODIS Image processing: Gerald Eichstädt CC BY",
+						"description": "The left image shows a phytoplankton bloom in the Norwegian Sea. The right image shows turbulent clouds in Jupiter's atmosphere.  Jupiter's atmosphere is one of the most turbulent places in the solar system. Orbiting Jupiter and its 79 moons is NASA's Juno spacecraft, which sends images from the largest planet in our solar system back to researchers on Earth. These images from Juno have given oceanographers the raw materials to study the rich turbulence at Jupiter's poles and the physical forces that drive large cyclones on Jupiter.  Lia Siegelman, a physical oceanographer and postdoctoral scholar at Scripps Institution of Oceanography at the University of California, San Diego, observed similarities between the richness of turbulence around Jovian cyclones and the filaments around smaller eddies with turbulence seen in Earth's oceans.  https://photojournal.jpl.nasa.gov/catalog/PIA25037"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA25037/PIA25037~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01257/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Hubble Images Reveal Jupiter Auroras",
+						"nasa_id": "PIA01257",
+						"date_created": "1998-05-02T16:51:00Z",
+						"keywords": [
+							"Jupiter",
+							"Hubble Space Telescope"
+						],
+						"media_type": "image",
+						"description_508": "Hubble Images Reveal Jupiter Auroras",
+						"secondary_creator": "JPL/NASA/STScI",
+						"description": "Hubble Images Reveal Jupiter Auroras"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01257/PIA01257~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01261/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Hubble Gallery of Jupiter Galilean Satellites",
+						"nasa_id": "PIA01261",
+						"date_created": "1998-05-02T16:51:33Z",
+						"keywords": [
+							"Jupiter",
+							"Hubble Space Telescope"
+						],
+						"media_type": "image",
+						"description_508": "Hubble Gallery of Jupiter Galilean Satellites",
+						"secondary_creator": "JPL/NASA/STScI",
+						"description": "Hubble Gallery of Jupiter Galilean Satellites"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01261/PIA01261~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA03473/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Ultraviolet Movie of Jupiter Polar Stratosphere",
+						"nasa_id": "PIA03473",
+						"date_created": "2002-03-13T23:20:28Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Ultraviolet Movie of Jupiter Polar Stratosphere",
+						"secondary_creator": "NASA/JPL/Southwest Research Institute",
+						"description": "Ultraviolet Movie of Jupiter Polar Stratosphere"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA03473/PIA03473~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09242/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "A Moving Jupiter Global Map Animation",
+						"nasa_id": "PIA09242",
+						"date_created": "2007-04-02T23:50:12Z",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"media_type": "image",
+						"description_508": "A Moving Jupiter Global Map Animation",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest   Research Institute",
+						"description": "A Moving Jupiter Global Map Animation"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09242/PIA09242~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA03155/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Satellite Footprints Seen in Jupiter Aurora",
+						"nasa_id": "PIA03155",
+						"date_created": "2001-07-21T21:09:14Z",
+						"keywords": [
+							"Jupiter",
+							"Hubble Space Telescope"
+						],
+						"media_type": "image",
+						"description_508": "Satellite Footprints Seen in Jupiter Aurora",
+						"secondary_creator": "NASA and the Hubble Heritage Team STScI/AURA Acknowledgment: NASA/ESA, John Clarke University of Michigan",
+						"description": "Satellite Footprints Seen in Jupiter Aurora"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA03155/PIA03155~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA04432/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Massive Gas Cloud Around Jupiter",
+						"nasa_id": "PIA04432",
+						"date_created": "2003-02-27T17:32:21Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Massive Gas Cloud Around Jupiter",
+						"secondary_creator": "NASA/JPL/Johns Hopkins University Applied Physics Laboratory",
+						"description": "Massive Gas Cloud Around Jupiter"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA04432/PIA04432~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01258/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Rare Hubble Portrait of Io and Jupiter",
+						"nasa_id": "PIA01258",
+						"date_created": "1998-05-02T16:51:02Z",
+						"keywords": [
+							"Jupiter",
+							"Hubble Space Telescope"
+						],
+						"media_type": "image",
+						"description_508": "Rare Hubble Portrait of Io and Jupiter",
+						"secondary_creator": "JPL/NASA/STScI",
+						"description": "Rare Hubble Portrait of Io and Jupiter"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01258/PIA01258~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA03474/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Ultraviolet View Shows Jupiter Stratosphere",
+						"nasa_id": "PIA03474",
+						"date_created": "2002-03-13T20:48:30Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Ultraviolet View Shows Jupiter Stratosphere",
+						"secondary_creator": "NASA/JPL/Southwest Research Institute ",
+						"description": "Ultraviolet View Shows Jupiter Stratosphere"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA03474/PIA03474~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA09256/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Two Moons Meet over Jupiter",
+						"keywords": [
+							"Jupiter",
+							"New Horizons"
+						],
+						"nasa_id": "PIA09256",
+						"date_created": "2007-04-09T21:39:12Z",
+						"media_type": "image",
+						"description_508": "Two Moons Meet over Jupiter",
+						"secondary_creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+						"description": "Two Moons Meet over Jupiter"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA09256/PIA09256~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA10224/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Eruptions",
+						"nasa_id": "PIA10224",
+						"date_created": "2008-01-25T03:41:10Z",
+						"keywords": [
+							"Jupiter",
+							"Hubble Space Telescope"
+						],
+						"media_type": "image",
+						"description_508": "NASA Hubble Space Telescope shows detailed analysis of two continent-sized storms that erupted in Jupiter atmosphere in March 2007 shows that Jupiter internal heat plays a significant role in generating atmospheric disturbances .",
+						"secondary_creator": "NASA/ESA",
+						"description": "NASA Hubble Space Telescope shows detailed analysis of two continent-sized storms that erupted in Jupiter atmosphere in March 2007 shows that Jupiter internal heat plays a significant role in generating atmospheric disturbances ."
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA10224/PIA10224~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA25062/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Interior Graphic",
+						"nasa_id": "PIA25062",
+						"media_type": "image",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"date_created": "2021-12-17T00:00:00Z",
+						"description_508": "A model of the interior of Jupiter is compared with that of Earth, to scale.",
+						"secondary_creator": "NASA/JPL-Caltech/SwRI/John E. Connerney",
+						"description": "A model of the interior of Jupiter is compared with that of Earth, to scale. Jupiter is mostly hydrogen, with some helium and a dusting of heavier elements. The gas giant's outer envelope is in the form of molecular hydrogen and, beneath that, the hydrogen transitions to metallic hydrogen. Most models include a layer of metallic hydrogen stabilized by exsolution of helium (aka \"helium rain\") at the top of the metallic hydrogen region.  https://photojournal.jpl.nasa.gov/catalog/PIA25062"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA25062/PIA25062~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA02826/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter and Europa in Near Infrared",
+						"nasa_id": "PIA02826",
+						"date_created": "2000-11-06T21:39:51Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "These two images, taken by NASA Cassini spacecraft, show Jupiter in a near-infrared wavelength, and catch Europa, one of Jupiter largest moons, at different phases.",
+						"secondary_creator": "NASA/JPL/University of Arizona",
+						"description": "These two images, taken by NASA Cassini spacecraft, show Jupiter in a near-infrared wavelength, and catch Europa, one of Jupiter largest moons, at different phases."
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA02826/PIA02826~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o/collection.json",
+				"data": [
+					{
+						"center": "GSFC",
+						"title": "Hubble Captures Vivid Auroras in Jupiter’s Atmosphere",
+						"keywords": [
+							"Hubble",
+							"Jupiter",
+							"Aurora",
+							"Auroras"
+						],
+						"nasa_id": "hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o",
+						"date_created": "2016-06-30T00:00:00Z",
+						"media_type": "image",
+						"description": "Astronomers are using the NASA/ESA Hubble Space Telescope to study auroras — stunning light shows in a planet’s atmosphere — on the poles of the largest planet in the solar system, Jupiter. This observation program is supported by measurements made by NASA’s Juno spacecraft, currently on its way to Jupiter.  Jupiter, the largest planet in the solar system, is best known for its colorful storms, the most famous being the Great Red Spot. Now astronomers have focused on another beautiful feature of the planet, using Hubble's ultraviolet capabilities.  The extraordinary vivid glows shown in the new observations are known as auroras. They are created when high-energy particles enter a planet’s atmosphere near its magnetic poles and collide with atoms of gas. As well as producing beautiful images, this program aims to determine how various components of Jupiter’s auroras respond to different conditions in the solar wind, a stream of charged particles ejected from the sun.  This observation program is perfectly timed as NASA’s Juno spacecraft is currently in the solar wind near Jupiter and will enter the orbit of the planet in early July 2016. While Hubble is observing and measuring the auroras on Jupiter, Juno is measuring the properties of the solar wind itself; a perfect collaboration between a telescope and a space probe.  “These auroras are very dramatic and among the most active I have ever seen”, said Jonathan Nichols from the University of Leicester, U.K., and principal investigator of the study. “It almost seems as if Jupiter is throwing a firework party for the imminent arrival of Juno.”   Credits: NASA, ESA, and J. Nichols (University of Leicester)"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA00455/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter with Io Crossing",
+						"nasa_id": "PIA00455",
+						"date_created": "1996-09-26T10:01:48Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter satellite Io poses before the giant planet in this photo returned January 17, 1979. The satellite shadow can be seen falling on the face of Jupiter at left. Io is traveling from left to right in its orbit around Jupiter.",
+						"secondary_creator": "NASA/JPL",
+						"description": "million kilometers). The satellite's shadow can be seen falling on the face of Jupiter at left. Io is traveling from left to right in its one-and-three-quarter-day orbit around Jupiter. Even from this great distance the image of Io shows dark poles and a bright equatorial region. Voyager will make its closest approach to Jupiter -- 174,000 miles (280,000 kilometer) -- on March 5. It will then continue to Saturn in November 1980, Meanwhile Voyager 2, a sister spacecraft, will fly past Jupiter July 9, 1979, and reach Saturn in August 1981. This color image was taken through orange, green and blue filters.  http://photojournal.jpl.nasa.gov/catalog/PIA00455"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA00455/PIA00455~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA00011/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Cylindrical Projection of Jupiter",
+						"nasa_id": "PIA00011",
+						"date_created": "1996-01-29T11:10:55Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "This computer generated map of Jupiter was made from 10 color images of Jupiter taken Feb. 1, 1979, by NASA Voyager 1, during a single, 10 hour rotation of the planet. ",
+						"secondary_creator": "NASA/JPL",
+						"description": "This computer generated map of Jupiter was made from 10 color images of Jupiter taken Feb. 1, 1979, by NASA Voyager 1, during a single, 10 hour rotation of the planet.  http://photojournal.jpl.nasa.gov/catalog/PIA00011"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA00011/PIA00011~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA00730/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Temperatures--Broad Latitude",
+						"nasa_id": "PIA00730",
+						"date_created": "1997-09-23T11:12:15Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "This is one of the highest resolution images ever recorded of Jupiter temperature field. It was obtained by NASA Galileo mission, with its Photopolarimeter-Radiometer PPR experiment, during the seventh of its 10 orbits around Jupiter to date.",
+						"secondary_creator": "NASA/JPL",
+						"description": "This is one of the highest resolution images ever recorded of Jupiter temperature field. It was obtained by NASA Galileo mission, with its Photopolarimeter-Radiometer PPR experiment, during the seventh of its 10 orbits around Jupiter to date."
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA00730/PIA00730~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA00343/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter",
+						"nasa_id": "PIA00343",
+						"date_created": "1998-06-04T18:12:07Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "This processed color image of Jupiter was produced in 1990 by the U.S. Geological Survey from a Voyager image captured in 1979. Zones of light-colored, ascending clouds alternate with bands of dark, descending clouds.",
+						"secondary_creator": "NASA/JPL/USGS",
+						"description": "This processed color image of Jupiter was produced in 1990 by the U.S. Geological Survey from a Voyager image captured in 1979. Zones of light-colored, ascending clouds alternate with bands of dark, descending clouds.  http://photojournal.jpl.nasa.gov/catalog/PIA00343"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA00343/PIA00343~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01600/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Time Series of Jupiter Aurora",
+						"nasa_id": "PIA01600",
+						"date_created": "1998-06-10T15:24:55Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "These mosaics of Jupiter's night side show the Jovian aurora at approximately 45 minute intervals as the auroral ring rotated with the planet below the spacecraft. The images were obtained by NASA's Galileo spacecraft. during its eleventh orbit of Jupiter.",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "These mosaics of Jupiter's night side show the Jovian aurora at approximately 45 minute intervals as the auroral ring rotated with the planet below the spacecraft. The images were obtained by the Solid State Imaging (SSI) system on NASA's Galileo spacecraft. during its eleventh orbit of Jupiter.  The auroral ring is offset from Jupiter's pole of rotation and reaches the lowest latitude near 165 degrees west longitude. The aurora is hundreds of kilometers wide, and when it crosses the edge of Jupiter, it is about 250 kilometers above the planet.  As on Earth, the auroral emission is caused by electrically charged particles striking atoms in the upper atmosphere from above. The particles travel along Jupiter's magnetic field lines, but their origin is not fully understood. The field lines where the aurora is most intense cross the Jovian equator at large distances (many Jovian radii) from the planet. The faint background throughout the image is scattered light in the camera. This stray light comes from the sunlit portion of Jupiter, which is out of the image. In multispectral observations the aurora appears red, consistent with how atomic hydrogen in Jupiter's atmosphere would glow. Galileo's unique perspective allows it to view the night side of the planet at short range, revealing details that cannot be seen from Earth. These detailed features are time dependent, and can be followed in this sequence of Galileo images.  In the first mosaic, the auroral ring is directly over Jupiter's limb and is seen \"edge on.\" In the fifth mosaic, the auroral emission is coming from several distinct bands. This mosaic also shows the footprint of the Io flux tube. Volcanic eruptions on Jupiter's moon, Io, spew forth particles that become ionized and are pulled into Jupiter's magnetic field to form an invisible tube, the Io flux tube, between Jupiter and Io. The bright circular feature towards the lower right may mark the location where these energetic particles impact Jupiter. Stars which are visible in some of the images enable precise determination of where the camera is pointed. This has allowed the first three dimensional establishment of the position of the aurora. Surprisingly, the measured height is about half the altitude (above the one bar pressure level) predicted by magnetospheric models.  The Universal Time, in Spacecraft Event Time (SCET), that the images were taken is listed beneath each mosaic. The first four frames were taken on November 5, 1997 (SCET 97.309) before the Galileo spacecraft reached perijove, the closest point to Jupiter. The latter four were taken three days later on November 8, 1997 (SCET 97.312), after perijove. Each image was taken at visible wavelengths and is displayed in shades of blue. North is at the top of the picture. A grid of planetocentric latitude and west longitude is overlain on the images. The resolution in the plane of the pictures is 15 kilometers per picture element. The images were taken at a range of 1.3 million kilometers.  http://photojournal.jpl.nasa.gov/catalog/PIA01600"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01600/PIA01600~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA24433/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Aurorae on Jupiter and Earth",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA24433",
+						"date_created": "2021-03-16T00:00:00Z",
+						"media_type": "image",
+						"description_508": "This illustration depicts ultraviolet polar aurorae on Jupiter and Earth.",
+						"secondary_creator": "NASA/JPL-Caltech/SwRI/UVS/STScI/MODIS/WIC/IMAGE/ULiège",
+						"description": "This illustration depicts ultraviolet polar aurorae on Jupiter and Earth. While the diameter of the Jovian world is 10 times larger than that of Earth, both planets have markedly similar aurora.  https://photojournal.jpl.nasa.gov/catalog/PIA24433"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA24433/PIA24433~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA24299/collection.json",
+				"data": [
+					{
+						"description": "This composite image shows a hot spot in Jupiter's atmosphere. In the image on the left, taken on Sept. 16, 2020, by the Gemini North telescope on the island of Hawaii, the hot spot appears bright in the infrared at a wavelength of 5 microns. In the inset image on the right, taken by Juno's JunoCam visible-light imager, also on Sept. 16 during Juno's 29th perijove pass, the hot spot appears dark.  Scientists have known of Jupiter's hot spots for a long time. On Dec. 7, 1995, the Galileo probe likely descended into a similar hot spot. To the naked eye, Jupiter's hot spots appear as dark, cloud-free areas in Jupiter's equatorial belt, but at infrared wavelengths, which are invisible to the human eye, they are extremely bright, revealing the warm, deep atmosphere below the clouds.  High-resolution images of hot spots such as these are key both to understanding the role of storms and waves in Jupiter's atmosphere.  Citizen scientist Brian Swift processed the images to enhance the color and contrast, with further processing by Tom Momary to map the JunoCam image to the Gemini data.  The international Gemini North telescope is a 26.6-foot-diameter (8.1-meter-diameter) optical/infrared telescope optimized for infrared observations, and is managed for the NSF by the Association of Universities for Research in Astronomy (AURA).  https://photojournal.jpl.nasa.gov/catalog/PIA24299",
+						"title": "A Hot Spot on Jupiter",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA24299",
+						"media_type": "image",
+						"date_created": "2021-01-08T00:00:00Z",
+						"description_508": "This composite image shows a hot spot in Jupiter's atmosphere during perijove 29.",
+						"secondary_creator": "Gemini Image: International Gemini Observatory/NOIRLab/NSF/AURA M.H. Wong (UC Berkeley), JunoCam image: ENASA/JPL-Caltech/SwRI/MSSS/Brian Swift © CC BY / Tom Momary © CC BY",
+						"center": "JPL"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA24299/PIA24299~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA00296/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Great Red Spot",
+						"nasa_id": "PIA00296",
+						"date_created": "1997-09-07T14:16:11Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "This view of Jupiter Great Red Spot is a mosaic of two images taken by NASA Galileo spacecraft. The Great Red Spot is a storm in Jupiter atmosphere and is at least 300 years-old. The image was taken on June 26, 1996.",
+						"secondary_creator": "NASA/JPL",
+						"description": "This view of Jupiter Great Red Spot is a mosaic of two images taken by NASA Galileo spacecraft. The Great Red Spot is a storm in Jupiter atmosphere and is at least 300 years-old. The image was taken on June 26, 1996.  http://photojournal.jpl.nasa.gov/catalog/PIA00296"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA00296/PIA00296~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA00358/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter and Three Galilean Satellites",
+						"nasa_id": "PIA00358",
+						"date_created": "1999-03-06T11:36:30Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter, its Great Red Spot and three of its four largest satellites are visible in this photo taken Feb. 5, 1979, by Voyager 1. Io, Europa, and Callisto are seen against Jupiter disk.",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter, its Great Red Spot and three of its four largest satellites are visible in this photo taken Feb. 5, 1979, by Voyager 1. Io, Europa, and Callisto are seen against Jupiter disk.  http://photojournal.jpl.nasa.gov/catalog/PIA00358"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA00358/PIA00358~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA21389/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "The Edge of Jupiter",
+						"nasa_id": "PIA21389",
+						"media_type": "image",
+						"keywords": [
+							"Jupiter",
+							"Juno",
+							"JunoCam"
+						],
+						"date_created": "2017-04-19T20:20:50Z",
+						"description_508": "This enhanced color Jupiter image, taken by the JunoCam imager on NASA's Juno spacecraft, showcases several interesting features on the apparent edge limb of the planet.",
+						"description": "This enhanced color Jupiter image, taken by the JunoCam imager on NASA's Juno spacecraft, showcases several interesting features on the apparent edge (limb) of the planet.  Prior to Juno's fifth flyby over Jupiter's mysterious cloud tops, members of the public voted on which targets JunoCam should image. This picture captures not only a fascinating variety of textures in Jupiter's atmosphere, it also features three specific points of interest: \"String of Pearls,\" \"Between the Pearls,\" and \"An Interesting Band Point.\" Also visible is what's known as the STB Spectre, a feature in Jupiter's South Temperate Belt where multiple atmospheric conditions appear to collide.  JunoCam images of Jupiter sometimes appear to have an odd shape. This is because the Juno spacecraft is so close to Jupiter that it cannot capture the entire illuminated area in one image -- the sides get cut off.  Juno acquired this image on March 27, 2017, at 2:12 a.m. PDT (5:12 a.m. EDT), as the spacecraft performed a close flyby of Jupiter. When the image was taken, the spacecraft was about 12,400 miles (20,000 kilometers) from the planet. https://photojournal.jpl.nasa.gov/catalog/PIA21389. -   Enhanced image by Björn Jónsson (CC-NC-SA) based on images provided courtesy of NASA/JPL-Caltech/SwRI/MSSS"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA21389/PIA21389~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA24964/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jets at Jupiter",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA24964",
+						"date_created": "2021-10-28T00:00:00Z",
+						"media_type": "image",
+						"description_508": "This animation depicts Jupiter's planet wrapping cloud structure, commonly referred to as belts and zones, and the jet streams that encompass them.",
+						"secondary_creator": "NASA/JPL-Caltech/SSI/Weizmann Institute of Science",
+						"description": "This animation depicts Jupiter's planet wrapping cloud structure, commonly referred to as \"belts\" and \"zones,\" and the jet streams that encompass them. The belts (white bands) and zones (reddish bands) are separated by strong east-west winds, or jet streams (depicted by black arrows), that move in opposite directions. These jets penetrate about 1,800 miles (3,000 kilometers) below the cloud level of Jupiter. Other components of the winds including north-south and up-down movements – have been a mystery and have now been uncovered with the latest data from the microwave radiometer instrument aboard NASA's Juno spacecraft.  The base composite image of Jupiter was created from images obtained by NASA's Cassini spacecraft.  Movie available at https://photojournal.jpl.nasa.gov/catalog/PIA24964"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA24964/PIA24964~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01113/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Winds Near Jupiter Belt-Zone Boundary",
+						"nasa_id": "PIA01113",
+						"date_created": "1997-12-18T12:14:06Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Winds Near Jupiter Belt-Zone Boundary",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Winds Near Jupiter Belt-Zone Boundary"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01113/PIA01113~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01512/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Great Red Spot and White Ovals",
+						"nasa_id": "PIA01512",
+						"date_created": "1999-03-13T14:53:44Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter Great Red Spot and White Ovals",
+						"secondary_creator": "NASA/JPL",
+						"description": "Jupiter Great Red Spot and White Ovals"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01512/PIA01512~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01114/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Using Methane Absorption to Probe Jupiter Atmosphere",
+						"nasa_id": "PIA01114",
+						"date_created": "1997-12-18T12:14:25Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Using Methane Absorption to Probe Jupiter Atmosphere",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Using Methane Absorption to Probe Jupiter Atmosphere"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01114/PIA01114~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01116/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "False Color Mosaic of Jupiter Belt-Zone Boundary",
+						"nasa_id": "PIA01116",
+						"date_created": "1997-12-18T12:15:04Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "False Color Mosaic of Jupiter Belt-Zone Boundary",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "False Color Mosaic of Jupiter Belt-Zone Boundary"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01116/PIA01116~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01189/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"nasa_id": "PIA01189",
+						"date_created": "1998-03-06T07:08:14Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Three dimensional Visualization of Jupiter Equatorial Region"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01189/PIA01189~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01190/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"nasa_id": "PIA01190",
+						"date_created": "1998-03-06T07:09:10Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Three dimensional Visualization of Jupiter Equatorial Region"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01190/PIA01190~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01191/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"nasa_id": "PIA01191",
+						"date_created": "1998-03-06T07:10:28Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Three dimensional Visualization of Jupiter Equatorial Region"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01191/PIA01191~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01193/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"nasa_id": "PIA01193",
+						"date_created": "1998-03-06T07:13:19Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Three dimensional Visualization of Jupiter Equatorial Region"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01193/PIA01193~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01093/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Turbulent Region Near Jupiter Great Red Spot",
+						"nasa_id": "PIA01093",
+						"date_created": "1997-12-04T08:07:58Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Turbulent Region Near Jupiter Great Red Spot",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Turbulent Region Near Jupiter Great Red Spot"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01093/PIA01093~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01192/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"nasa_id": "PIA01192",
+						"date_created": "1998-03-06T07:11:56Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Three dimensional Visualization of Jupiter Equatorial Region"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01192/PIA01192~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA01194/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"nasa_id": "PIA01194",
+						"date_created": "1998-03-06T07:14:31Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Three dimensional Visualization of Jupiter Equatorial Region",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "Three dimensional Visualization of Jupiter Equatorial Region"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA01194/PIA01194~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA02569/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Ammonia Ice near Jupiter Great Red Spot",
+						"nasa_id": "PIA02569",
+						"date_created": "2000-10-26T19:44:45Z",
+						"keywords": [
+							"Jupiter",
+							"Galileo"
+						],
+						"media_type": "image",
+						"description_508": "Ammonia Ice near Jupiter Great Red Spot",
+						"secondary_creator": "NASA/JPL",
+						"description": "Ammonia Ice near Jupiter Great Red Spot"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA02569/PIA02569~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA24300/collection.json",
+				"data": [
+					{
+						"description": "This composite image shows a hot spot in Jupiter's atmosphere. In the image on the left, taken on Nov. 8, 2020, by NASA's Infrared Telescope Facility (IRTF) on the island of Hawaii, the hot spot appears bright in the infrared. The inset image on the right, taken by the JunoCam visible-light imager (also on Nov. 8, during Juno's 30th perijove pass), the hot spot appears dark and is flanked by high light-colored clouds to the south and a bright white storm to the west.  Jupiter's hot spots have been known for a long time. On Dec. 7, 1995, the Galileo probe likely descended into a similar hot spot. To the naked eye, Jupiter's hot spots appear as dark, cloud-free spots in Jupiter's equatorial belt, but at infrared wavelengths, they are extremely bright, revealing the warm, deep atmosphere below the clouds.  High-resolution images of hot spots such as these are key to understanding the role of storms and waves in Jupiter's atmosphere and to solving the mystery of Jupiter's elusive water.  Citizen scientist Kevin Gill processed the image to enhance the color and contrast, with further processing by Tom Momary to map the JunoCam image to the IRTF data.  The NASA IRTF is a 10.5-foot-diameter (3.2-meter-diameter) telescope optimized for infrared observations and is managed for NASA by the Institute for Astronomy at the University of Hawai'i.  https://photojournal.jpl.nasa.gov/catalog/PIA24300",
+						"title": "Two Views of Jupiter Hot Spot",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA24300",
+						"media_type": "image",
+						"date_created": "2021-01-08T00:00:00Z",
+						"description_508": "This composite image shows a hot spot in Jupiter's atmosphere during perijove 30.",
+						"secondary_creator": "Infrared Telescope Facility: NASA/Infrared Telescope Facility/University of Hawaii/G. S. Orton (JPL), JunoCam image: NASA/JPL-Caltech/SwRI/MSSS/Kevin Gill © CC BY / Tom Momary © CC BY",
+						"center": "JPL"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA24300/PIA24300~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA22775/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Heating Up Jupiter's Atmosphere",
+						"keywords": [
+							"Jupiter"
+						],
+						"nasa_id": "PIA22775",
+						"date_created": "2019-04-08T00:00:00Z",
+						"media_type": "image",
+						"description_508": "Sensitive to Jupiter's stratospheric temperatures, these infrared images were recorded by the Subaru Telescope on the summit of Mauna Kea, Hawaii. Areas that are more yellow and red indicate the hotter regions.",
+						"secondary_creator": "NAOJ/NASA/JPL-Caltech",
+						"description": "Sensitive to Jupiter's stratospheric temperatures, these infrared images were recorded by the Cooled Mid-Infrared Camera and Spectrograph (COMICS) at the Subaru Telescope on the summit of Mauna Kea, Hawaii. Areas of the atmosphere that are more yellow and red indicate the hotter regions. Aurora produce enhanced and variable heating at Jupiter's poles. The heating occurs when the magnetosphere and the solar wind interact and deposit energy into Jupiter's atmosphere. Images were captured less than a day apart, from Jan. 11-12, 2017, and illustrate how quickly the atmosphere varied in response to the solar wind.  https://photojournal.jpl.nasa.gov/catalog/PIA22775"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA22775/PIA22775~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA24971/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Swirling Storms",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA24971",
+						"date_created": "2021-10-28T00:00:00Z",
+						"media_type": "image",
+						"description_508": "This image captures Jupiter's North Temperate Belt. It was taken October 16, 2021, as NASA's Juno spacecraft performed its 37th close flyby of Jupiter.",
+						"secondary_creator": "Image data: NASA/JPL-Caltech/SwRI/MSSS     Image processing: Brian Swift CC BY",
+						"description": "Jupiter's zonal winds, going in opposite directions, generate eddies of all sizes that manifest in storms swirling in the atmosphere. At the highest level \"pop-up clouds,\" the small, bright clouds that amass at the edge of one of these fronts, are thought to be parcels of air pushed up to the altitude at which ammonia ice condenses. Although they appear to be small, these bright storms may be 16 to 31 miles (25 to 50 kilometers) across.  This image captures Jupiter's North Temperate Belt. It was taken Oct. 16, 2021, at 10:11 a.m. PDT (1:11 p.m. EDT) as NASA's Juno spacecraft performed its 37th close flyby of Jupiter. At the time the image was taken, the spacecraft was about 2,454 miles (3,950 kilometers) from the planet's cloud tops at a latitude of 38.57 degrees. The original product is available here: https://www.missionjuno.swri.edu/junocam/processing?id=11484.  https://photojournal.jpl.nasa.gov/catalog/PIA24971"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA24971/PIA24971~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA22965/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Juno Images Jupiter's Dark Side",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA22965",
+						"date_created": "2018-12-19T00:00:00Z",
+						"media_type": "image",
+						"description_508": "This image shows the dark side of Jupiter as captured by NASA's Juno spacecraft. The clouds are illuminated by moonlight from Jupiter's moon Io.",
+						"secondary_creator": "NASA/JPL-Caltech/SwRI",
+						"description": "Juno's Radiation Monitoring Investigation used the Stellar Reference Unit (SRU) star camera to collect this high-resolution image of the dark side of Jupiter during Perijove 11 on Feb. 7, 2018. The clouds are illuminated by moonlight from Jupiter's moon Io and the two bright spots on the right side of the image are flashes of Jovian lightning. Juno was only 41,000 miles (66,000 kilometers) from the cloud tops when this SRU image was collected. The left side of the composite image shows a 3-dimensional visualization of Jupiter's Northern hemisphere with its northern aurora included. To the right of the aurora and solar terminator line, is a box illustrating the position of the SRU field of view at the time the image was taken. Further to the right is an exploded view of the SRU image.  https://photojournal.jpl.nasa.gov/catalog/PIA22965"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA22965/PIA22965~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA02852/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Eye to Io",
+						"nasa_id": "PIA02852",
+						"date_created": "2000-12-12T21:33:22Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "This image taken by NASA Cassini spacecraft on Dec. 1, 2000, shows details of Jupiter Great Red Spot and other features that were not visible in images taken earlier, when Cassini was farther from Jupiter.",
+						"secondary_creator": "NASA/JPL/University of Arizona",
+						"description": "This image taken by NASA Cassini spacecraft on Dec. 1, 2000, shows details of Jupiter Great Red Spot and other features that were not visible in images taken earlier, when Cassini was farther from Jupiter."
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA02852/PIA02852~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA20895/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Speeding Towards Jupiter Pole",
+						"keywords": [
+							"Jupiter",
+							"Juno",
+							"JunoCam"
+						],
+						"nasa_id": "PIA20895",
+						"date_created": "2016-08-27T21:21:32Z",
+						"media_type": "image",
+						"description_508": "Jupiter north polar region is coming into view as NASA's Juno spacecraft approaches the giant planet. This view of Jupiter was taken on August 27, when Juno was 437,000 miles 703,000 kilometers away.",
+						"secondary_creator": "NASA/JPL-Caltech/SwRI/MSSS",
+						"description": "Jupiter north polar region is coming into view as NASA Juno spacecraft approaches the giant planet. This view of Jupiter was taken on August 27, when Juno was 437,000 miles 703,000 kilometers away.  http://photojournal.jpl.nasa.gov/catalog/PIA20895"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA20895/PIA20895~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA15232/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Jet Stream",
+						"nasa_id": "PIA15232",
+						"date_created": "2012-03-13T17:00:05Z",
+						"keywords": [
+							"Jupiter",
+							"Cassini-Huygens"
+						],
+						"media_type": "image",
+						"description_508": "Following the path of one of Jupiter jet streams, a line of v-shaped chevrons travels west to east just above Jupiter Great Red Spot as seen by NASA Cassini spacecraft.",
+						"secondary_creator": "NASA/JPL-Caltech/Space Science Institute",
+						"description": "Following the path of one of Jupiter jet streams, a line of v-shaped chevrons travels west to east just above Jupiter Great Red Spot as seen by NASA Cassini spacecraft."
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA15232/PIA15232~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA24303/collection.json",
+				"data": [
+					{
+						"description": "In this annotated, graphic of Jupiter, small, bright \"pop-up\" clouds rise above the surrounding features in this cyclonic Jovian storm system, dubbed the \"Nautilus.\" The image at left, taken by the Hubble Space Telescope — which observed the storm — was taken on July 16, 2018. The Juno spacecraft's JunoCam captured the storm at higher resolution on July 16, 2018, during Juno's 13th science flyby of Jupiter. The image at right, a magnification of the JunoCam image, offers a closer view. Storms like these pop-up clouds are believed to be the tops of the extreme ammonia-water thunderclouds that produce \"shallow lightning\" and Jovian hailstones — or \"mushballs\" — high in Jupiter's atmosphere.  The solar-powered Jupiter explorer launched on Aug. 5, 2011 and went into orbit around the gas giant on July 4, 2016.  https://photojournal.jpl.nasa.gov/catalog/PIA24303",
+						"title": "Jupiter's Pop-up Clouds",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA24303",
+						"media_type": "image",
+						"date_created": "2020-12-11T00:00:00Z",
+						"description_508": "In this annotated, graphic of Jupiter, small, bright pop-up clouds rise above the surrounding features in this cyclonic Jovian storm system.",
+						"secondary_creator": "NASA/ESA/M.H. Wong (UC Berkeley) (HST image)/NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill © CC BY (JunoCam image)",
+						"center": "JPL"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA24303/PIA24303~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA22946/collection.json",
+				"data": [
+					{
+						"description": "This striking view of Jupiter's Great Red Spot and turbulent southern hemisphere was captured by NASA's Juno spacecraft as it performed a close pass of the gas giant planet.  Juno took the three images used to produce this color-enhanced view on Feb. 12, 2019, between 9:59 a.m. PST (12:59 p.m. EST) and 10:39 p.m. PST (1:39 p.m. EST), as the spacecraft performed its 17th science pass of Jupiter. At the time the images were taken, the spacecraft was between 16,700 miles (26,900 kilometers) and 59,300 miles (95,400 kilometers) above Jupiter's cloud tops, above a southern latitude spanning from about 40 to 74 degrees. https://photojournal.jpl.nasa.gov/catalog/PIA22946  Enhanced image by Kevin M. Gill (CC-BY) based on images provided courtesy of NASA/JPL-Caltech/SwRI/MSSS",
+						"title": "Jupiter Marble",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA22946",
+						"media_type": "image",
+						"date_created": "2019-03-21T00:00:00Z",
+						"description_508": "This striking view of Jupiter's Great Red Spot and turbulent southern hemisphere was captured by NASA's Juno spacecraft as it performed a close pass of the gas giant planet.",
+						"center": "JPL"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA22946/PIA22946~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA25038/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter's Main Dust Ring",
+						"nasa_id": "PIA25038",
+						"media_type": "image",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"date_created": "2021-12-17T00:00:00Z",
+						"description_508": "This high-resolution image of Jupiter's main dust ring was collected by the Stellar Reference Unit (SRU) navigation camera aboard NASA's Juno spacecraft.",
+						"secondary_creator": "NASA/JPL-Caltech",
+						"description": "This high-resolution image of Jupiter's main dust ring was collected by the Stellar Reference Unit (SRU) navigation camera aboard NASA's Juno spacecraft. The image was taken from inside the ring looking out as Juno flew between Jupiter and the radiation belts during the spacecraft's 36th close flyby on Sept. 2, 2021. The brightest thin dust bands are associated with the orbits of Jupiter's small moons, Metis and Adrastea. The image is at a resolution of nearly 20 miles (32 kilometers) per pixel.  https://photojournal.jpl.nasa.gov/catalog/PIA25038"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA25038/PIA25038~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA19659/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter Wave",
+						"nasa_id": "PIA19659",
+						"date_created": "2015-10-13T17:28:03Z",
+						"keywords": [
+							"Jupiter",
+							"Hubble Space Telescope"
+						],
+						"media_type": "image",
+						"description_508": "Scientists spotted a rare wave in Jupiter North Equatorial Belt that had been seen there only once before in this false-color close-up from NASA Hubble Telescope.",
+						"secondary_creator": "NASA/ESA/GSFC/UCBerkeley/JPL-Caltech/STScI",
+						"description": "Scientists spotted a rare wave in Jupiter North Equatorial Belt that had been seen there only once before in this false-color close-up from NASA Hubble Telescope.  In Jupiter's North Equatorial Belt, scientists spotted a rare wave that had been seen there only once before. It is similar to a wave that sometimes occurs in Earth's atmosphere when cyclones are forming. This false-color close-up of Jupiter shows cyclones (arrows) and the wave (vertical lines).  http://photojournal.jpl.nasa.gov/catalog/PIA19659"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA19659/PIA19659~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA21938/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter's Northern Lights",
+						"keywords": [
+							"Juno",
+							"Jupiter",
+							"UVS"
+						],
+						"nasa_id": "PIA21938",
+						"date_created": "2017-09-06T00:00:00Z",
+						"media_type": "image",
+						"description_508": "This is a reconstructed view of Jupiter's northern lights through the filters of Juno's Ultraviolet Imaging Spectrometer (UVS) instrument on Dec. 11, 2016, as the Juno spacecraft approached Jupiter, passed over its poles, and plunged towards the equator.",
+						"secondary_creator": "NASA/JPL-Caltech/SwRI",
+						"description": "This is a reconstructed view of Jupiter's northern lights through the filters of Juno's Ultraviolet Imaging Spectrometer (UVS) instrument on Dec. 11, 2016, as the Juno spacecraft approached Jupiter, passed over its poles, and plunged towards the equator. Such measurements present a real challenge for the spacecraft's science instruments: Juno flies over Jupiter's poles at 30 miles (50 kilometers) per second -- more than 100,000 miles per hour -- speeding past auroral forms in a matter of seconds.  https://photojournal.jpl.nasa.gov/catalog/PIA21938"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA21938/PIA21938~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA25013/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "A View of Crescent Jupiter from Juno",
+						"nasa_id": "PIA25013",
+						"media_type": "image",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"date_created": "2022-02-22T00:00:00Z",
+						"description_508": "This image, taken by the JunoCam instrument aboard NASA's Juno spacecraft, shows this view of Jupiter in a crescent phase.",
+						"secondary_creator": "mage data: NASA/JPL-Caltech/SwRI/MSSS     Image processing by Kevin M. Gill © CC BY",
+						"description": "If you could ride along with NASA's Juno spacecraft as it approaches Jupiter during one of its regular close passes by the giant planet, you would be treated to a striking vista similar to this one.  Unlike the Moon or Venus, this view of Jupiter in a crescent phase is impossible to see from Earth, even using a telescope. Since Jupiter's orbit is outside Earth's, an observer on Earth can only see the side of Jupiter that is illuminated by the Sun, so the planet always appears full.  Citizen scientist Kevin M. Gill created this mosaic using raw data from the JunoCam instrument. It comprises seven images taken during Juno's 39th close pass by Jupiter on Jan. 12, 2022.  https://photojournal.jpl.nasa.gov/catalog/PIA25013"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA25013/PIA25013~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA22933/collection.json",
+				"data": [
+					{
+						"description": "This image was taken at 7:21 p.m. PDT (10:21 p.m. EDT) on Sept. 6, 2018, as the spacecraft performed its 15th close flyby of Jupiter. The version of the image on the left side shows Jupiter in approximate true color, while the same image on the right has been processed to bring out detail close to the terminator and reveals four of the five southern circumpolar cyclones plus the cyclone in the center. Citizen scientist Björn Jónsson created this image using data from the spacecraft's JunoCam imager.  https://photojournal.jpl.nasa.gov/catalog/PIA22933. -   Enhanced image by Björn Jónsson (CC-NC-SA) based on images provided courtesy of NASA/JPL-Caltech/SwRI/MSSS",
+						"title": "Jupiter's Southern Circumpolar Cyclones",
+						"nasa_id": "PIA22933",
+						"date_created": "2018-12-12T00:00:00Z",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"media_type": "image",
+						"description_508": "Jupiter's southern circumpolar cyclones are captured in this image from NASA's Juno spacecraft.",
+						"center": "JPL"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA22933/PIA22933~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA00371/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Jupiter - Io In Front of Jupiter Turbulent Clouds",
+						"nasa_id": "PIA00371",
+						"date_created": "1996-11-13T09:10:15Z",
+						"keywords": [
+							"Jupiter",
+							"Voyager"
+						],
+						"media_type": "image",
+						"description_508": "This photograph of the southern hemisphere of Jupiter was obtained by NASA's Voyager 2 on June 25, 1979. Seen in front of the turbulent clouds of the planet is Io, the innermost of the large Galilean satellites of Jupiter.",
+						"secondary_creator": "NASA/JPL",
+						"description": "This photograph of the southern hemisphere of Jupiter was obtained by Voyager 2 on June 25, 1979, at a distance of 12 million kilometers (8 million miles). The Voyager spacecraft is rapidly nearing the giant planet, with closest approach to occur at 4:23 pm PDT on July 9. Seen in front of the turbulent clouds of the planet is Io, the innermost of the large Galilean satellites of Jupiter. Io is the size of our moon. Voyager discovered in early March that Io is the most volcanically active planetary body known in the solar system, with continuous eruptions much larger than any that take place on the Earth. The red, orange, and yellow colors of Io are thought to be deposits of sulfur and sulfur compounds produced in these eruptions. The smallest features in either Jupiter or Io that can be distinguished in this picture are about 200 kilometers (125 miles) across; this resolution, it is not yet possible to identify individual volcanic eruptions. Monitoring of the erupture activity of Io by Voyager 2 will begin about July 5 and will extend past the encounter July 9.  http://photojournal.jpl.nasa.gov/catalog/PIA00371"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA00371/PIA00371~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			},
+			{
+				"href": "https://images-assets.nasa.gov/image/PIA22964/collection.json",
+				"data": [
+					{
+						"center": "JPL",
+						"title": "Dark Side Courtesy of Jupiter's Moon",
+						"keywords": [
+							"Juno",
+							"Jupiter"
+						],
+						"nasa_id": "PIA22964",
+						"date_created": "2018-12-19T00:00:00Z",
+						"media_type": "image",
+						"description_508": "This image shows the dark side of Jupiter during Perijove 11 as captured by NASA's Juno spacecraft on Feb. 7, 2018.",
+						"secondary_creator": "NASA/JPL-Caltech/SwRI",
+						"description": "Juno's Radiation Monitoring Investigation used the Stellar Reference Unit (SRU) star camera to collect this high resolution image of the dark side of Jupiter during Perijove 11 on Feb. 7, 2018. The clouds are illuminated by moonlight from Jupiter's moon Io and the two bright spots are flashes of Jovian lightning. Juno was 41,000 miles (66,000 kilometers) from the cloud tops when this SRU image was collected. This is the closest view of Jupiter's lightning from a visible light camera to date.  https://photojournal.jpl.nasa.gov/catalog/PIA22964"
+					}
+				],
+				"links": [
+					{
+						"href": "https://images-assets.nasa.gov/image/PIA22964/PIA22964~thumb.jpg",
+						"rel": "preview",
+						"render": "image"
+					}
+				]
+			}
+		],
+		"metadata": {
+			"total_hits": 2252
+		},
+		"links": [
+			{
+				"rel": "next",
+				"prompt": "Next",
+				"href": "http://images-api.nasa.gov/search?q=jupiter&media_type=image&page=2"
+			}
+		]
+	}
+}
