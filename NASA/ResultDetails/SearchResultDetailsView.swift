@@ -33,6 +33,8 @@ struct SearchResultDetailsView: View {
 					Text("**Photographer**: \(photographer)")
 				}
 				
+				Text("**Date**: \(searchResult.date.formatted(date: .long, time: .omitted))")
+				
 				Spacer()
 			}
 			.navigationTitle(searchResult.title)
