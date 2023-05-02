@@ -23,7 +23,7 @@ enum ImageTask {
 }
 
 final class ImageMockLoader: ImageLoader {
-	private(set) var imageCache: NSCache<NSString, UIImage> = NSCache()
+	private(set) var imageCache = ImageCache()
 	private(set) var imageSessions: [String : URLSessionDataTask] = [:]
 	
 	var imageTask: ImageTask = .validImage

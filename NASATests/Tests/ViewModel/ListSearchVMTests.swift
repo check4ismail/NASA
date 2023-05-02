@@ -78,7 +78,7 @@ final class ListSearchVMTests: XCTestCase {
 		
 		XCTAssertTrue(sut.currentSearchText.isEmpty)
 		XCTAssertTrue(sut.searchResults.isEmpty)
-		XCTAssertNil(sut.imageLoader.imageCache.object(forKey: key))
+		XCTAssertNil(sut.imageLoader.imageCache[searchResult.id])
 	}
 	
 	func test_setSearch_thenGetNoResultsText() {

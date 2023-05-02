@@ -73,6 +73,7 @@ final class NASAClientMockAPI: NASAClientAPI {
 			
 			/// Attempt to perform decoding of data.
 			let decoder = JSONDecoder()
+			decoder.dateDecodingStrategy = .iso8601
 			let searchResults = try decoder.decode(SearchResults.self, from: data)
 			return .success(searchResults.results)
 		} catch {

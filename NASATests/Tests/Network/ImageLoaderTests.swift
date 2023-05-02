@@ -29,7 +29,7 @@ final class ImageLoaderTests: XCTestCase {
 		
 		XCTAssertNotNil(image)
 		XCTAssertNotNil(sut.imageSessions[searchResult.id])
-		XCTAssertNotNil(sut.imageCache.object(forKey: NSString(string: searchResult.id)))
+		XCTAssertNotNil(sut.imageCache[searchResult.id])
 	}
 	
 	func test_downloadImage_returnsNilImage() async {
@@ -40,7 +40,7 @@ final class ImageLoaderTests: XCTestCase {
 		
 		XCTAssertNil(image)
 		XCTAssertNotNil(sut.imageSessions[searchResult.id])
-		XCTAssertNil(sut.imageCache.object(forKey: NSString(string: searchResult.id)))
+		XCTAssertNil(sut.imageCache[searchResult.id])
 	}
 	
 	func test_downloadImage_thenCancelDownload() async {
