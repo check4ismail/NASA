@@ -8,8 +8,31 @@
 import Foundation
 import UIKit
 
+/// Individual cell for search result.
+///
+/// Each cell displays an image and the title of the search result. If an image is not found, then a gray-default circle is displayed.
 final class SearchTableViewCell: UITableViewCell {
+	/// Unique cell identifier.
 	static let id = "searchTableViewCell"
+	
+	var reuseCompletion: (() -> ())?
+	
+	override func prepareForReuse() {
+		nasaImageView.image = nil
+		nasaImageView.backgroundColor = .gray
+		reuseCompletion?()
+	}
+	
+	override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
+		super.init(style: style, reuseIdentifier: reuseIdentifier)
+		selectionStyle = .none
+		setupView()
+		setupLayout()
+	}
+	
+	required init?(coder: NSCoder) {
+		fatalError("init(coder:) has not been implemented")
+	}
 	
 	private lazy var nasaImageView: UIImageView = {
 		let imageView = UIImageView()
@@ -36,25 +59,6 @@ final class SearchTableViewCell: UITableViewCell {
 		return stackView
 	}()
 	
-	var reuseCompletion: (() -> ())?
-	
-	override func prepareForReuse() {
-		nasaImageView.image = nil
-		nasaImageView.backgroundColor = .gray
-		reuseCompletion?()
-	}
-	
-	override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
-		super.init(style: style, reuseIdentifier: reuseIdentifier)
-		selectionStyle = .none
-		setupView()
-		setupLayout()
-	}
-	
-	required init?(coder: NSCoder) {
-		fatalError("init(coder:) has not been implemented")
-	}
-	
 	private func setupView() {
 		stackView.addArrangedSubview(nasaImageView)
 		stackView.addArrangedSubview(titleLabel)
@@ -76,10 +80,12 @@ final class SearchTableViewCell: UITableViewCell {
 		
 	}
 	
+	/// Updates `titleLabel` text.
 	func updateLabel(_ text: String) {
 		titleLabel.text = text
 	}
 	
+	/// Updates NASA Image.
 	func updateImage(_ image: UIImage?) {
 		guard let image else {
 			return
