@@ -22,6 +22,7 @@ protocol NASAClientAPI {
 	
 	/// Performs a network-call to query search NASA API.
 	///
+	///	Paging logic is handled by this function based on `currentQuery`. 
 	/// - Parameters:
 	/// 	- query: Free text search that's passed to NASA API
 	func search(for query: String) async -> Result<[SearchResult], Error>

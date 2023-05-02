@@ -9,6 +9,7 @@ import Foundation
 
 /// Model representing individual search result of performing a NASA Search query.
 struct SearchResult: Codable {
+	let id: String
 	let description: String
 	let title: String
 	let photographer: String?
@@ -23,6 +24,7 @@ struct SearchResult: Codable {
 	
 	/// Sub-model of `SearchResult` containing most elements.
 	private struct Data: Codable {
+		let nasa_id: String
 		let description: String
 		let title: String
 		let photographer: String?
@@ -46,12 +48,13 @@ struct SearchResult: Codable {
 		title = data.title
 		photographer = data.photographer
 		location = data.location
+		id = data.nasa_id
 		imageURL = link.href
 	}
 	
 	func encode(to encoder: Encoder) throws {
 		var container = encoder.container(keyedBy: CodingKeys.self)
-		let data = Data(description: description, title: title, photographer: photographer, location: location)
+		let data = Data(nasa_id: id, description: description, title: title, photographer: photographer, location: location)
 		let link = Link(href: imageURL)
 		
 		try container.encode([data], forKey: .data)

@@ -8,23 +8,31 @@
 
 /* Begin PBXBuildFile section */
 		21EDF82029FEB887000C9BFF /* NASAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF81F29FEB887000C9BFF /* NASAApp.swift */; };
-		21EDF82229FEB887000C9BFF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF82129FEB887000C9BFF /* ContentView.swift */; };
 		21EDF82429FEB88A000C9BFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF82329FEB88A000C9BFF /* Assets.xcassets */; };
 		21EDF82729FEB88A000C9BFF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF82629FEB88A000C9BFF /* Preview Assets.xcassets */; };
 		21EDF82F29FEBA6E000C9BFF /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF82E29FEBA6E000C9BFF /* SearchResult.swift */; };
 		21EDF83129FEBF9D000C9BFF /* SearchResults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF83029FEBF9D000C9BFF /* SearchResults.swift */; };
 		21EDF83429FECDB3000C9BFF /* NASAClientAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF83329FECDB3000C9BFF /* NASAClientAPI.swift */; };
+		21EDF83729FEE139000C9BFF /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF83629FEE139000C9BFF /* ImageLoader.swift */; };
+		21EDF83A2A0146BE000C9BFF /* ListSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF8392A0146BE000C9BFF /* ListSearchViewController.swift */; };
+		21EDF83E2A014B52000C9BFF /* ListSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF83D2A014B52000C9BFF /* ListSearchView.swift */; };
+		21EDF8402A0158BC000C9BFF /* SearchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF83F2A0158BC000C9BFF /* SearchTableViewCell.swift */; };
+		21EDF8432A0172E7000C9BFF /* ListSearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF8422A0172E7000C9BFF /* ListSearchViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		21EDF81C29FEB887000C9BFF /* NASA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NASA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21EDF81F29FEB887000C9BFF /* NASAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NASAApp.swift; sourceTree = "<group>"; };
-		21EDF82129FEB887000C9BFF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		21EDF82329FEB88A000C9BFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21EDF82629FEB88A000C9BFF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		21EDF82E29FEBA6E000C9BFF /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
 		21EDF83029FEBF9D000C9BFF /* SearchResults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResults.swift; sourceTree = "<group>"; };
 		21EDF83329FECDB3000C9BFF /* NASAClientAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NASAClientAPI.swift; sourceTree = "<group>"; };
+		21EDF83629FEE139000C9BFF /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
+		21EDF8392A0146BE000C9BFF /* ListSearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSearchViewController.swift; sourceTree = "<group>"; };
+		21EDF83D2A014B52000C9BFF /* ListSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSearchView.swift; sourceTree = "<group>"; };
+		21EDF83F2A0158BC000C9BFF /* SearchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTableViewCell.swift; sourceTree = "<group>"; };
+		21EDF8422A0172E7000C9BFF /* ListSearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSearchViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,10 +65,10 @@
 		21EDF81E29FEB887000C9BFF /* NASA */ = {
 			isa = PBXGroup;
 			children = (
-				21EDF83229FECD80000C9BFF /* API */,
-				21EDF82D29FEBA4F000C9BFF /* Model */,
 				21EDF81F29FEB887000C9BFF /* NASAApp.swift */,
-				21EDF82129FEB887000C9BFF /* ContentView.swift */,
+				21EDF83529FEE119000C9BFF /* Network */,
+				21EDF82D29FEBA4F000C9BFF /* Model */,
+				21EDF8382A01468F000C9BFF /* ListSearch */,
 				21EDF82329FEB88A000C9BFF /* Assets.xcassets */,
 				21EDF82529FEB88A000C9BFF /* Preview Content */,
 			);
@@ -84,12 +92,48 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		21EDF83229FECD80000C9BFF /* API */ = {
+		21EDF83529FEE119000C9BFF /* Network */ = {
 			isa = PBXGroup;
 			children = (
 				21EDF83329FECDB3000C9BFF /* NASAClientAPI.swift */,
+				21EDF83629FEE139000C9BFF /* ImageLoader.swift */,
 			);
-			path = API;
+			path = Network;
+			sourceTree = "<group>";
+		};
+		21EDF8382A01468F000C9BFF /* ListSearch */ = {
+			isa = PBXGroup;
+			children = (
+				21EDF8412A0172D4000C9BFF /* ViewModel */,
+				21EDF83C2A014B45000C9BFF /* View */,
+				21EDF83B2A014B37000C9BFF /* Controller */,
+			);
+			path = ListSearch;
+			sourceTree = "<group>";
+		};
+		21EDF83B2A014B37000C9BFF /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				21EDF8392A0146BE000C9BFF /* ListSearchViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		21EDF83C2A014B45000C9BFF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				21EDF83D2A014B52000C9BFF /* ListSearchView.swift */,
+				21EDF83F2A0158BC000C9BFF /* SearchTableViewCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		21EDF8412A0172D4000C9BFF /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				21EDF8422A0172E7000C9BFF /* ListSearchViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -162,10 +206,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				21EDF82229FEB887000C9BFF /* ContentView.swift in Sources */,
 				21EDF82F29FEBA6E000C9BFF /* SearchResult.swift in Sources */,
+				21EDF83729FEE139000C9BFF /* ImageLoader.swift in Sources */,
 				21EDF83129FEBF9D000C9BFF /* SearchResults.swift in Sources */,
+				21EDF83E2A014B52000C9BFF /* ListSearchView.swift in Sources */,
 				21EDF82029FEB887000C9BFF /* NASAApp.swift in Sources */,
+				21EDF8402A0158BC000C9BFF /* SearchTableViewCell.swift in Sources */,
+				21EDF83A2A0146BE000C9BFF /* ListSearchViewController.swift in Sources */,
+				21EDF8432A0172E7000C9BFF /* ListSearchViewModel.swift in Sources */,
 				21EDF83429FECDB3000C9BFF /* NASAClientAPI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
