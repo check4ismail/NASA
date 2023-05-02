@@ -8,17 +8,28 @@
 @testable import NASA
 import Foundation
 
+/// Data request for mocking NASA query API.
 enum DataRequest: String {
+	/// Request to query "mars"
 	case mars
+	
+	/// Request to query "jupiter"
 	case jupiter
+	
+	/// Query for "aaaaaa" to generate empty results.
 	case empty = "aaaaaa"
+	
+	/// Request that forces an error.
 	case error
 	
-	func generateURL(_ index: Int) -> URL {
+	/// Returns URL file path of mock JSON response.
+	///
+	/// Depending on current `DataRequest`, appropriate JSON URL file is returned.
+	func generateURL() -> URL {
 		let bundle = Bundle(for: NASAClientMockAPI.self)
 		switch self {
 		case .mars, .jupiter:
-			return bundle.url(forResource: "\(rawValue)-page-\(index)", withExtension: "json")!
+			return bundle.url(forResource: rawValue + "-page", withExtension: "json")!
 		case .empty:
 			return bundle.url(forResource: "empty-results", withExtension: "json")!
 		case .error:
@@ -29,8 +40,6 @@ enum DataRequest: String {
 
 final class NASAClientMockAPI: NASAClientAPI {
 	static let shared = NASAClientMockAPI()
-	
-	private init() {}
 	
 	private(set) var pageIndex: Int = 0
 	
@@ -53,10 +62,16 @@ final class NASAClientMockAPI: NASAClientAPI {
 		
 		/// Perform network call and handle data mapping.
 		do {
+			/// Fetch data request based on `query`
 			let dataRequest = DataRequest(rawValue: query)!
-			let fileURL = dataRequest.generateURL(pageIndex)
+			
+			/// Fetch JSON file based on `dataRequest`.
+			let fileURL = dataRequest.generateURL()
+			
+			/// Fetch data of JSON file.
 			let data = try Data(contentsOf: fileURL)
 			
+			/// Attempt to perform decoding of data.
 			let decoder = JSONDecoder()
 			let searchResults = try decoder.decode(SearchResults.self, from: data)
 			return .success(searchResults.results)

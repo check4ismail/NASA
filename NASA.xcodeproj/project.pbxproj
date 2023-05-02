@@ -20,10 +20,9 @@
 		21EDF8432A0172E7000C9BFF /* ListSearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF8422A0172E7000C9BFF /* ListSearchViewModel.swift */; };
 		21EDF8562A018B4C000C9BFF /* NASAClientMockAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF8552A018B4C000C9BFF /* NASAClientMockAPI.swift */; };
 		21EDF8612A0197A3000C9BFF /* NASAClientAPITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF8602A0197A3000C9BFF /* NASAClientAPITests.swift */; };
-		21EDF8632A019BDB000C9BFF /* mars-page-1.json in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF8582A01931A000C9BFF /* mars-page-1.json */; };
-		21EDF8642A019BDB000C9BFF /* mars-page-2.json in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF8592A019394000C9BFF /* mars-page-2.json */; };
+		21EDF8632A019BDB000C9BFF /* mars-page.json in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF8582A01931A000C9BFF /* mars-page.json */; };
 		21EDF8652A019BDB000C9BFF /* empty-results.json in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF85B2A01941C000C9BFF /* empty-results.json */; };
-		21EDF8662A019BDB000C9BFF /* jupiter-page-1.json in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF85E2A01954C000C9BFF /* jupiter-page-1.json */; };
+		21EDF8662A019BDB000C9BFF /* jupiter-page.json in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF85E2A01954C000C9BFF /* jupiter-page.json */; };
 		21EDF8682A01A02A000C9BFF /* error.json in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF8672A01A02A000C9BFF /* error.json */; };
 /* End PBXBuildFile section */
 
@@ -52,10 +51,9 @@
 		21EDF8422A0172E7000C9BFF /* ListSearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSearchViewModel.swift; sourceTree = "<group>"; };
 		21EDF8482A018AD6000C9BFF /* NASATests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NASATests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		21EDF8552A018B4C000C9BFF /* NASAClientMockAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NASAClientMockAPI.swift; sourceTree = "<group>"; };
-		21EDF8582A01931A000C9BFF /* mars-page-1.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "mars-page-1.json"; sourceTree = "<group>"; };
-		21EDF8592A019394000C9BFF /* mars-page-2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "mars-page-2.json"; sourceTree = "<group>"; };
+		21EDF8582A01931A000C9BFF /* mars-page.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "mars-page.json"; sourceTree = "<group>"; };
 		21EDF85B2A01941C000C9BFF /* empty-results.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "empty-results.json"; sourceTree = "<group>"; };
-		21EDF85E2A01954C000C9BFF /* jupiter-page-1.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "jupiter-page-1.json"; sourceTree = "<group>"; };
+		21EDF85E2A01954C000C9BFF /* jupiter-page.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "jupiter-page.json"; sourceTree = "<group>"; };
 		21EDF8602A0197A3000C9BFF /* NASAClientAPITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NASAClientAPITests.swift; sourceTree = "<group>"; };
 		21EDF8622A019959000C9BFF /* NASA.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = NASA.xctestplan; sourceTree = "<group>"; };
 		21EDF8672A01A02A000C9BFF /* error.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = error.json; sourceTree = "<group>"; };
@@ -209,10 +207,9 @@
 		21EDF8572A0192E2000C9BFF /* MockData */ = {
 			isa = PBXGroup;
 			children = (
-				21EDF8582A01931A000C9BFF /* mars-page-1.json */,
-				21EDF8592A019394000C9BFF /* mars-page-2.json */,
+				21EDF8582A01931A000C9BFF /* mars-page.json */,
 				21EDF85B2A01941C000C9BFF /* empty-results.json */,
-				21EDF85E2A01954C000C9BFF /* jupiter-page-1.json */,
+				21EDF85E2A01954C000C9BFF /* jupiter-page.json */,
 				21EDF8672A01A02A000C9BFF /* error.json */,
 			);
 			path = MockData;
@@ -310,10 +307,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				21EDF8682A01A02A000C9BFF /* error.json in Resources */,
-				21EDF8632A019BDB000C9BFF /* mars-page-1.json in Resources */,
-				21EDF8642A019BDB000C9BFF /* mars-page-2.json in Resources */,
+				21EDF8632A019BDB000C9BFF /* mars-page.json in Resources */,
 				21EDF8652A019BDB000C9BFF /* empty-results.json in Resources */,
-				21EDF8662A019BDB000C9BFF /* jupiter-page-1.json in Resources */,
+				21EDF8662A019BDB000C9BFF /* jupiter-page.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

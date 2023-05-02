@@ -12,7 +12,7 @@ final class NASAClientAPITests: XCTestCase {
 	
 	override func setUp() {
 		super.setUp()
-		sut = NASAClientMockAPI.shared
+		sut = NASAClientMockAPI()
 	}
 	
 	override func tearDown() {
@@ -56,5 +56,40 @@ final class NASAClientAPITests: XCTestCase {
 		let result = await sut.search(for: dataRequest)
 		
 		XCTAssertNil(try? result.get())
+	}
+	
+	func test_searchMars_withPaging() async {
+		let dataRequest = DataRequest.mars
+		let _ = await sut.search(for: dataRequest)
+		
+		/// Second request for second page
+		let result = await sut.search(for: dataRequest)
+		
+		XCTAssertNotNil(try? result.get())
+		XCTAssertTrue(sut.pageIndex == 2)
+		XCTAssertTrue(sut.currentQuery == dataRequest.rawValue)
+	}
+	
+	func test_searchJupiter_withPaging() async {
+		let dataRequest = DataRequest.jupiter
+		let _ = await sut.search(for: dataRequest)
+		
+		/// Second request for second page
+		let result = await sut.search(for: dataRequest)
+		
+		XCTAssertNotNil(try? result.get())
+		XCTAssertTrue(sut.pageIndex == 2)
+		XCTAssertTrue(sut.currentQuery == dataRequest.rawValue)
+	}
+	
+	func test_searchMars_thenJupiter() async {
+		let _ = await sut.search(for: .mars)
+		
+		let secondRequest: DataRequest = .jupiter
+		let result = await sut.search(for: secondRequest)
+		
+		XCTAssertNotNil(try? result.get())
+		XCTAssertTrue(sut.pageIndex == 1)
+		XCTAssertTrue(sut.currentQuery == secondRequest.rawValue)
 	}
 }
