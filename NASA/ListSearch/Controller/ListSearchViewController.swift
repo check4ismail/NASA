@@ -5,6 +5,7 @@
 //  Created by Ismail Elmaliki on 5/2/23.
 //
 
+import SwiftUI
 import UIKit
 
 typealias Delegates = UISearchBarDelegate & UITextFieldDelegate & UITableViewDataSource & UITableViewDelegate
@@ -193,5 +194,13 @@ final class ListSearchViewController<T: ListSearchViewModel>: UIViewController, 
 		}
 		
 		executeSearch()
+	}
+	
+	func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+		let searchResult = viewModel.searchResults[indexPath.row]
+		let image = viewModel.imageLoader.imageCache[searchResult.id]
+		
+		let detailsView = UIHostingController(rootView: SearchResultDetailsView(searchResult: searchResult, image: image))
+		navigationController?.pushViewController(detailsView, animated: true)
 	}
 }

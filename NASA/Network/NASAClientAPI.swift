@@ -57,6 +57,7 @@ final class NASAClientProdAPI: NASAClientAPI {
 			let data = result.0
 			
 			let decoder = JSONDecoder()
+			decoder.dateDecodingStrategy = .iso8601
 			let searchResults = try decoder.decode(SearchResults.self, from: data)
 			return .success(searchResults.results)
 		} catch {

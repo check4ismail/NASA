@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		219334B92A01BA0E00004F54 /* SearchResult+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219334B82A01BA0E00004F54 /* SearchResult+Extensions.swift */; };
 		219334BD2A01BB3000004F54 /* ListSearchVMTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219334BC2A01BB3000004F54 /* ListSearchVMTests.swift */; };
+		219334C02A01C89800004F54 /* SearchResultDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219334BF2A01C89800004F54 /* SearchResultDetailsView.swift */; };
+		219334C52A01D05000004F54 /* ImageCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219334C42A01D05000004F54 /* ImageCache.swift */; };
 		21EDF82029FEB887000C9BFF /* NASAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF81F29FEB887000C9BFF /* NASAApp.swift */; };
 		21EDF82429FEB88A000C9BFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF82329FEB88A000C9BFF /* Assets.xcassets */; };
 		21EDF82729FEB88A000C9BFF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF82629FEB88A000C9BFF /* Preview Assets.xcassets */; };
@@ -43,6 +45,8 @@
 /* Begin PBXFileReference section */
 		219334B82A01BA0E00004F54 /* SearchResult+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SearchResult+Extensions.swift"; sourceTree = "<group>"; };
 		219334BC2A01BB3000004F54 /* ListSearchVMTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSearchVMTests.swift; sourceTree = "<group>"; };
+		219334BF2A01C89800004F54 /* SearchResultDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultDetailsView.swift; sourceTree = "<group>"; };
+		219334C42A01D05000004F54 /* ImageCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCache.swift; sourceTree = "<group>"; };
 		21EDF81C29FEB887000C9BFF /* NASA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NASA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21EDF81F29FEB887000C9BFF /* NASAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NASAApp.swift; sourceTree = "<group>"; };
 		21EDF82329FEB88A000C9BFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -110,6 +114,14 @@
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
+		219334BE2A01C86E00004F54 /* ResultDetails */ = {
+			isa = PBXGroup;
+			children = (
+				219334BF2A01C89800004F54 /* SearchResultDetailsView.swift */,
+			);
+			path = ResultDetails;
+			sourceTree = "<group>";
+		};
 		21EDF81329FEB887000C9BFF = {
 			isa = PBXGroup;
 			children = (
@@ -136,6 +148,7 @@
 				21EDF83529FEE119000C9BFF /* Network */,
 				21EDF82D29FEBA4F000C9BFF /* Model */,
 				21EDF8382A01468F000C9BFF /* ListSearch */,
+				219334BE2A01C86E00004F54 /* ResultDetails */,
 				21EDF82329FEB88A000C9BFF /* Assets.xcassets */,
 				21EDF82529FEB88A000C9BFF /* Preview Content */,
 			);
@@ -164,6 +177,7 @@
 			children = (
 				21EDF83329FECDB3000C9BFF /* NASAClientAPI.swift */,
 				21EDF83629FEE139000C9BFF /* ImageLoader.swift */,
+				219334C42A01D05000004F54 /* ImageCache.swift */,
 			);
 			path = Network;
 			sourceTree = "<group>";
@@ -358,9 +372,11 @@
 			files = (
 				21EDF82F29FEBA6E000C9BFF /* SearchResult.swift in Sources */,
 				21EDF83729FEE139000C9BFF /* ImageLoader.swift in Sources */,
+				219334C02A01C89800004F54 /* SearchResultDetailsView.swift in Sources */,
 				21EDF83129FEBF9D000C9BFF /* SearchResults.swift in Sources */,
 				21EDF83E2A014B52000C9BFF /* ListSearchView.swift in Sources */,
 				21EDF82029FEB887000C9BFF /* NASAApp.swift in Sources */,
+				219334C52A01D05000004F54 /* ImageCache.swift in Sources */,
 				21EDF8402A0158BC000C9BFF /* SearchTableViewCell.swift in Sources */,
 				21EDF83A2A0146BE000C9BFF /* ListSearchViewController.swift in Sources */,
 				21EDF8432A0172E7000C9BFF /* ListSearchViewModel.swift in Sources */,

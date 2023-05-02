@@ -15,7 +15,7 @@ protocol ImageLoader {
 	/// In-memory image cache.
 	///
 	/// Using a key-store pair approach with NSCache, it uses the search result's `id` to cache its `UIImage`.
-	var imageCache: NSCache<NSString, UIImage> { get }
+	var imageCache: ImageCache { get }
 	
 	/// Dictionary to keep track of all image sessions being processed.
 	///
@@ -36,13 +36,13 @@ final class ImageProdLoader: ImageLoader {
 	static let shared: ImageLoader = ImageProdLoader()
 	
 	private(set) var imageSessions: [String: URLSessionDataTask] = [:]
-	let imageCache: NSCache<NSString, UIImage>
+	let imageCache: ImageCache
 	
 	private let urlSession: URLSession
 	
 	private init() {
 		urlSession = URLSession.shared
-		imageCache = NSCache()
+		imageCache = ImageCache()
 		
 		/// Maximum image cache limit is 100 MB.
 		imageCache.totalCostLimit = 100 * 1024 * 1024
@@ -51,7 +51,7 @@ final class ImageProdLoader: ImageLoader {
 	/// In order to conserve memory within cache, after fetching image
 	/// from network call image data is compressed with lower JPEG quality.
 	func downloadImage(_ searchResult: SearchResult) async -> UIImage? {
-		let storedImage = imageCache.object(forKey: NSString(string: searchResult.id))
+		let storedImage = imageCache[searchResult.id]
 		guard storedImage == nil else {
 			return storedImage
 		}
@@ -70,7 +70,7 @@ final class ImageProdLoader: ImageLoader {
 					if let image = UIImage(data: data),
 					   let compressedData = image.jpegData(compressionQuality: 0.2),
 					   let compressedImage = UIImage(data: compressedData) {
-						self?.imageCache.setObject(compressedImage, forKey: NSString(string: searchResult.id))
+						self?.imageCache[searchResult.id] = compressedImage
 						return continuation.resume(returning: compressedImage)
 					} else {
 						return continuation.resume(returning: nil)

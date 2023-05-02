@@ -15,6 +15,7 @@ struct SearchResult: Codable {
 	let photographer: String?
 	let location: String?
 	let imageURL: String
+	let date: Date
 	
 	/// Outer keys to map NASA API response data to `SearchResult`.
 	enum CodingKeys: CodingKey {
@@ -29,11 +30,29 @@ struct SearchResult: Codable {
 		let title: String
 		let photographer: String?
 		let location: String?
+		let date_created: Date
 	}
 	
 	/// Sub-model of `SearchResult` that contains the `imageURL` link.
 	private struct Link: Codable {
 		let href: String
+	}
+	
+	init(
+		id: String = "",
+		description: String = "",
+		title: String = "",
+		photographer: String? = nil,
+		location: String? = nil,
+		imageURL: String = ""
+	) {
+		self.id = id
+		self.description = description
+		self.title = title
+		self.photographer = photographer
+		self.location = location
+		self.imageURL = imageURL
+		date = Date()
 	}
 	
 	init(from decoder: Decoder) throws {
@@ -50,11 +69,12 @@ struct SearchResult: Codable {
 		location = data.location
 		id = data.nasa_id
 		imageURL = link.href
+		date = data.date_created
 	}
 	
 	func encode(to encoder: Encoder) throws {
 		var container = encoder.container(keyedBy: CodingKeys.self)
-		let data = Data(nasa_id: id, description: description, title: title, photographer: photographer, location: location)
+		let data = Data(nasa_id: id, description: description, title: title, photographer: photographer, location: location, date_created: date)
 		let link = Link(href: imageURL)
 		
 		try container.encode([data], forKey: .data)
