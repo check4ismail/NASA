@@ -21,6 +21,8 @@ Purpose of this coding challenge is the following:
 
 Before jumping into coding, I made sure to fully understand the requirements and given REST endpoints.
 
+To build and run the app, select any iPhone simulator in Xcode. Then use the keyboard shortcut (CMD + R) or from the Xcode top menu select **Product** -> **Run**.
+
 <br />
 
 ### NASA Search Query List
