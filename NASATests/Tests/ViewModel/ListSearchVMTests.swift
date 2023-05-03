@@ -68,7 +68,6 @@ final class ListSearchVMTests: XCTestCase {
 		/// Perform search twice with same query (paging).
 		let _ = await sut.performSearch()
 		let searchResult = sut.searchResults.first!
-		let key = NSString(string: searchResult.id)
 		
 		/// Fetch image to populate cache
 		let _ = await sut.imageLoader.downloadImage(searchResult)
