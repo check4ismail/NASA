@@ -126,6 +126,13 @@ Initially the list is empty. Once a search is performed after hitting `return`, 
 
 <br />
 
+Endless pagination support - more results are loaded the more you scroll down.
+
+<img src="screenshots/pagination-support.gif" width="240" height="500">
+
+<br />
+
+
 Clearing the search clears the entire list.
 
 <img src="screenshots/clear-search.gif" width="240" height="500">
