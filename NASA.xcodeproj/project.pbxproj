@@ -11,6 +11,7 @@
 		219334BD2A01BB3000004F54 /* ListSearchVMTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219334BC2A01BB3000004F54 /* ListSearchVMTests.swift */; };
 		219334C02A01C89800004F54 /* SearchResultDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219334BF2A01C89800004F54 /* SearchResultDetailsView.swift */; };
 		219334C52A01D05000004F54 /* ImageCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219334C42A01D05000004F54 /* ImageCache.swift */; };
+		219334CB2A028E1F00004F54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 219334CA2A028E1F00004F54 /* LaunchScreen.storyboard */; };
 		21EDF82029FEB887000C9BFF /* NASAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EDF81F29FEB887000C9BFF /* NASAApp.swift */; };
 		21EDF82429FEB88A000C9BFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF82329FEB88A000C9BFF /* Assets.xcassets */; };
 		21EDF82729FEB88A000C9BFF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21EDF82629FEB88A000C9BFF /* Preview Assets.xcassets */; };
@@ -47,6 +48,8 @@
 		219334BC2A01BB3000004F54 /* ListSearchVMTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSearchVMTests.swift; sourceTree = "<group>"; };
 		219334BF2A01C89800004F54 /* SearchResultDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultDetailsView.swift; sourceTree = "<group>"; };
 		219334C42A01D05000004F54 /* ImageCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCache.swift; sourceTree = "<group>"; };
+		219334C92A028CF600004F54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		219334CA2A028E1F00004F54 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21EDF81C29FEB887000C9BFF /* NASA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NASA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21EDF81F29FEB887000C9BFF /* NASAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NASAApp.swift; sourceTree = "<group>"; };
 		21EDF82329FEB88A000C9BFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -144,12 +147,14 @@
 		21EDF81E29FEB887000C9BFF /* NASA */ = {
 			isa = PBXGroup;
 			children = (
+				21EDF82329FEB88A000C9BFF /* Assets.xcassets */,
+				219334C92A028CF600004F54 /* Info.plist */,
+				219334CA2A028E1F00004F54 /* LaunchScreen.storyboard */,
 				21EDF81F29FEB887000C9BFF /* NASAApp.swift */,
 				21EDF83529FEE119000C9BFF /* Network */,
 				21EDF82D29FEBA4F000C9BFF /* Model */,
 				21EDF8382A01468F000C9BFF /* ListSearch */,
 				219334BE2A01C86E00004F54 /* ResultDetails */,
-				21EDF82329FEB88A000C9BFF /* Assets.xcassets */,
 				21EDF82529FEB88A000C9BFF /* Preview Content */,
 			);
 			path = NASA;
@@ -347,6 +352,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				219334CB2A028E1F00004F54 /* LaunchScreen.storyboard in Resources */,
 				21EDF82729FEB88A000C9BFF /* Preview Assets.xcassets in Resources */,
 				21EDF82429FEB88A000C9BFF /* Assets.xcassets in Resources */,
 			);
@@ -532,9 +538,11 @@
 				DEVELOPMENT_ASSET_PATHS = "\"NASA/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NASA/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -549,7 +557,7 @@
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -563,9 +571,11 @@
 				DEVELOPMENT_ASSET_PATHS = "\"NASA/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NASA/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -580,7 +590,7 @@
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

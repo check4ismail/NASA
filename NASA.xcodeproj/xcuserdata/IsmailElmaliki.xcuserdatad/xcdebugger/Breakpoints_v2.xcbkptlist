@@ -3,4 +3,54 @@
    uuid = "DA14EB28-D87B-4E97-9D22-1CBF171353D7"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CDCF993-0F25-4FFB-96A1-782A301B3BF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NASA/ListSearch/Controller/ListSearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "executeSearch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0CDCF993-0F25-4FFB-96A1-782A301B3BF3 - 2c48a171fc7b4ba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in NASA.ListSearchViewController.executeSearch() -&gt; ()"
+                  moduleName = "NASA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IsmailElmaliki/repos/NASA/NASA/ListSearch/Controller/ListSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "253">
+               </Location>
+               <Location
+                  uuid = "0CDCF993-0F25-4FFB-96A1-782A301B3BF3 - 2c48a171fc7b4ba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in NASA.ListSearchViewController.executeSearch() -&gt; ()"
+                  moduleName = "NASA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IsmailElmaliki/repos/NASA/NASA/ListSearch/Controller/ListSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

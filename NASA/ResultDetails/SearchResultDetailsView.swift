@@ -23,7 +23,6 @@ struct SearchResultDetailsView: View {
 				}
 				
 				Text(searchResult.description)
-					.font(.system(size: 16))
 				
 				if let location = searchResult.location {
 					Text("**Location**: \(location)")
@@ -37,8 +36,9 @@ struct SearchResultDetailsView: View {
 				
 				Spacer()
 			}
+			.font(.system(size: 18))
 			.navigationTitle(searchResult.title)
-			.navigationBarTitleDisplayMode(.large)
+			.navigationBarTitleDisplayMode(.inline)
 			.padding()
 		}
     }

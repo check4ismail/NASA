@@ -72,6 +72,7 @@ final class ListSearchVMImplementer: ListSearchViewModel {
 		}
 		
 		if nasaAPI.pageIndex == 1 {
+			imageLoader.imageCache.removeAllObjects()
 			searchResults = newSearchResults
 			return .reloadAll
 		} else {

@@ -79,6 +79,8 @@ final class ListSearchViewController<T: ListSearchViewModel>: UIViewController, 
 			case .reloadAll:
 				/// Completely new `searchResults` means tableView should be reloaded.
 				tableView.reloadData()
+				tableView.layoutIfNeeded()
+				tableView.setContentOffset(.zero, animated: false)
 			case .reloadRows:
 				/// Paging through existing `searchResults` will reload tableView rows using batch updates.
 				let endingRow = viewModel.searchResults.count
